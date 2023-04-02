@@ -1,7 +1,7 @@
 #!/usr/bin/env python
 # coding: utf-8
 
-# ### Find the Correlation using python code
+# ### Find the Correlation between two variables(two data sample) using python code
 
 # There are three methods to find the correlation between two data samples
 # 1. Scatter Diagram 
@@ -81,7 +81,6 @@ def find_correlation():
             print("The samples are negatively correlated to each other")
         else:
             print("The coefficient of concurrent deviation(CCD) = zero, so")
-            print(" ")
             print("The samples are not correlated to each other")
         
         # Plot the scatter diagram
