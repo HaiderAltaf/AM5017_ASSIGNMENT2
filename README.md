@@ -20,4 +20,4 @@ These below libraries need to be installed in your python environment. So that w
 - Just open the file (.py or .ipynb) and run the whole code.
 - Then you will be prompt to give some inputs like you want to enter your data manually or have csv or excel file. 
 - If manual then number of data for each variable.
-- If csv or excel file then you have to enter the path of the file(for window users -->Right click on your file then click on copy as path ).
+- If csv or excel file then you have to enter the path of the file(for window users -->Right click on your file then click on copy as path ) and paste in the prompted space.
