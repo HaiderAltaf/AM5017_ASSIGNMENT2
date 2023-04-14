@@ -1,18 +1,3 @@
-#!/usr/bin/env python
-# coding: utf-8
-
-# ### Find the Correlation using python code
-
-# There are three methods to find the correlation between two data samples
-# 1. Scatter Diagram 
-# 2. Karl pearson method
-# 3. Spearman's rank Correlation method
-
-# ### Creating a python function to find correlation using anyone of the above methods
-
-# In[ ]:
-
-
 def find_correlation():
     
     # importing the required libraries
@@ -277,16 +262,3 @@ def find_correlation():
         print("Run the code again and select correct method to calculate the correlation")
         print(" ")
      
-
-
-# In[ ]:
-
-
-find_correlation()
-
-
-# In[ ]:
-
-
-
-
