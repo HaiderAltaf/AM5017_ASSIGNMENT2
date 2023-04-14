@@ -21,3 +21,6 @@ These below libraries need to be installed in your python environment. So that w
 - Then you will be prompt to give some inputs like you want to enter your data manually or have csv or excel file. 
 - If manual then number of data for each variable.
 - If csv or excel file then you have to enter the path of the file(for window users -->Right click on your file then click on copy as path ) and paste in the prompted space.
+- and just follow some other instructions.
+- Within seconds you will get your results.
+- I have written the code in such a way that you will understand the concepts behind the finding correlation using different methods.
