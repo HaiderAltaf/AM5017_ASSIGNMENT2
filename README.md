@@ -1,6 +1,6 @@
 #  Easy way to Find Correlation between two variables
 
-I have build a function named  __find_correlation()__ to find the correlation between two variables in easiest way as per my exprience.
+I have build a function named  __find_correlation()__ to find the correlation between two variables in easiest way as per my exprience. Just run the code in python environment and you will be prompted to take necessary inputs to find correlation in your data
 
 ## Author
 [@Haider Altaf am22s020](https://www.github.com/HaiderAltaf)
