@@ -261,4 +261,7 @@ def find_correlation():
     else:
         print("Run the code again and select correct method to calculate the correlation")
         print(" ")
+        
+    
+find_coorelation()
      
